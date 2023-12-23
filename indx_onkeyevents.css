@@ -1,0 +1,61 @@
+/* body{
+    background: url(./aesthetic\ purple\ bg.jpeg) ;
+    font-family: 'Poppins', sans-serif;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    
+} */
+
+body{
+    background-color:#AC87C5;
+    font-family: 'Poppins', sans-serif;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    
+}
+
+
+#form{
+    width: 260px;
+    margin: 100px auto 150px auto;
+    padding: 40px;
+    text-align: center;
+    border: 2px solid rgba(224,174,208, 0.237);
+    /* border-color: beige; */
+    border-radius: 50px;
+    background-color: rgba(224,174,208, 0.991);
+    box-shadow: 6px 6px 6px #7b7092;
+    
+}
+
+h1{
+    color: #756AB6;
+    font-size: 2rem;
+}
+p{
+    /* color: #7b7092; */
+    color: #FFF3DA;
+    text-decoration: solid;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+input{
+    padding:6px;
+    border-radius: 15px;
+    border-color:#e0aed002;
+    color: #737272;
+    font-weight: 560;
+    letter-spacing: 1px;
+    outline:none;
+    height: 25px;
+    width: 150px;
+    font-size: 1rem;
+    background-color:rgba(244, 236, 242, 0.546);
+}
